@@ -6,6 +6,7 @@ namespace week1b
     {
         static void Main(string[] args)
         {
+            // week1 lab 2
             //Declare 10 variables with their different data type
             //1. string variable
             string name = "Joshua Akinola";
